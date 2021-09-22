@@ -1,0 +1,42 @@
+.page-nav {
+  border-bottom: 1px solid #7292ca;
+}
+.page-nav p {
+  color: #7292ca;
+  font-weight: bold;
+  display: inline;
+  line-height: 0;
+}
+.page-nav .fa-arrow {
+  color: #7f7f7f;
+}
+.page-nav .fa-user {
+  color: #7292ca;
+  font-size: 1.3rem;
+  font-weight: normal;
+}
+
+.profile-img h3 {
+  font-weight: bold;
+  color: #7f7f7f;
+}
+.profile-img .fa-pen {
+  position: relative;
+  top: 8rem;
+  left: 4rem;
+}
+
+.info .header {
+  background-color: #7292ca;
+  font-weight: 500;
+}
+.info .header h6 {
+  display: inline;
+}
+.info .information {
+  color: #7f7f7f;
+  font-weight: 500;
+}
+.info .password .header {
+  background-color: #f6ab26;
+}/*# sourceMappingURL=profile.css.map */

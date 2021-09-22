@@ -1,0 +1,67 @@
+.rank-point-logo .header-rank-logo {
+  border: 1px solid #7c7c7c;
+  border-left: none;
+  border-radius: 0px 5px 5px 0px;
+  font-size: 12px;
+  color: #7c7c7c;
+}
+.rank-point-logo .rank-header-logo {
+  position: relative;
+  right: 1.4rem;
+}
+
+.top-rank-point {
+  background-color: #dedede;
+  max-height: 35px;
+}
+.top-rank-point a {
+  font-size: 14px;
+  border-radius: 8px 8px 0px 0px;
+  width: 180px;
+  font-weight: 500;
+  background-color: #16a6e7;
+  border: none;
+}
+
+.rank-potint-title {
+  background-color: #d0d0d0;
+  line-height: 18px;
+}
+.rank-potint-title p {
+  font-size: 0.9rem;
+}
+.rank-potint-title h2, .rank-potint-title h3 {
+  line-height: 18px;
+}
+
+.rank-point-free {
+  background-color: #dedede;
+  height: 1rem;
+}
+
+.point-previous-season {
+  background-color: #d0d0d0;
+}
+.point-previous-season .row {
+  border-bottom: 1px solid white;
+}
+
+.team-popup {
+  font-size: 0.9rem;
+  line-height: 12px;
+}
+.team-popup .table {
+  background-color: #00b794;
+}
+.team-popup thead {
+  background-color: #00a885;
+}
+.team-popup .dual-text {
+  font-size: 0.7rem;
+}
+.team-popup .table-bordered > thead > tr > th {
+  border: 0.5px solid #5edec4;
+}
+.team-popup .table-bordered > tbody > tr > th {
+  border: 0.5px solid #5edec4;
+}/*# sourceMappingURL=rankPoint.css.map */

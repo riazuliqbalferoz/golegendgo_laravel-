@@ -1,0 +1,17 @@
+.glg .col-3 {
+  height: 120px;
+  max-width: 130px;
+  border-radius: 20px;
+}
+.glg .col-3 p {
+  line-height: 0px;
+  font-size: 0.65rem;
+  font-weight: bold;
+  margin: 10px 0px;
+}
+.glg .col-3 .small {
+  font-size: 0.5rem;
+}
+.glg .col-3 h2 {
+  font-weight: bold;
+}/*# sourceMappingURL=glg.css.map */

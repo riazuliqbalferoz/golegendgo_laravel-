@@ -1,0 +1,54 @@
+$primary-color: #7292ca;
+$secondery-color: #7f7f7f;
+
+
+.page-nav{
+    p{
+        color: $primary-color;
+        font-weight: bold;
+        display: inline;
+        line-height: 0;
+    }
+
+    .fa-arrow{
+        color: $secondery-color;
+    }
+    .fa-user{
+        color: $primary-color;
+        font-size: 1.3rem;
+        font-weight:normal;
+    }
+
+    border-bottom: 1px solid $primary-color;
+}
+
+.profile-img{
+    h3{
+        font-weight: bold;
+        color: $secondery-color;
+    }
+    .fa-pen{
+        position: relative;
+        top: 8rem;
+        left: 4rem;
+    }
+}
+
+.info{
+    .header{
+        background-color: $primary-color;
+        font-weight: 500;
+        h6{
+            display: inline;
+        }
+    }
+    .information{
+        color: $secondery-color;
+        font-weight: 500;
+    }
+    .password{
+        .header{
+            background-color: #f6ab26;
+        }
+    }
+}

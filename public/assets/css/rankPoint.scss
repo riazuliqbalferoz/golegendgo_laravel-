@@ -1,0 +1,74 @@
+$rank-base-color: #16a6e7;
+$rank-secondery-color: #d0d0d0;
+
+.rank-point-logo{
+    .header-rank-logo{
+        border: 1px solid rgb(124, 124, 124);
+        border-left: none;
+        border-radius: 0px 5px 5px 0px;
+        font-size: 12px;
+        color: rgb(124, 124, 124);
+    }
+    .rank-header-logo{
+        position: relative;
+        right: 1.4rem;
+    }
+}
+
+.top-rank-point{
+    background-color: #dedede;
+    max-height: 35px;
+    a{
+        font-size:14px;
+        border-radius: 8px 8px 0px 0px;
+        width: 180px;
+        font-weight: 500;
+        background-color: $rank-base-color;
+        border:none;
+    }
+}
+
+.rank-potint-title{
+    background-color: #d0d0d0;
+    line-height: 18px;
+    p{
+        font-size: .9rem;
+    }
+    h2, h3{
+        line-height: 18px;
+    }
+}
+
+.rank-point-free{
+    background-color:#dedede;
+    height: 1rem;
+}
+
+.point-previous-season{
+    background-color: $rank-secondery-color;
+    .row{
+        border-bottom: 1px solid white;
+    }
+}
+
+.team-popup{
+    font-size: .9rem;
+    line-height: 12px;
+    .table{
+        background-color: #00b794; 
+    }
+    thead{
+        background-color: #00a885; 
+    }
+    .dual-text{
+        font-size: .7rem;
+    }
+    .table-bordered > thead > tr > th {
+     border: .5px solid #5edec4;
+    }
+    .table-bordered > tbody > tr > th {
+     border: .5px solid #5edec4;
+    }
+
+}
+

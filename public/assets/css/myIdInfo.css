@@ -1,0 +1,68 @@
+.top-header {
+  font-weight: 500;
+  font-size: 1.1rem;
+  border-bottom: 1px solid #7292ca;
+}
+.top-header .fa-address-card {
+  color: #7292ca;
+  font-size: 1.5rem;
+}
+.top-header .info-header {
+  color: #7292ca;
+}
+.top-header .fa-user {
+  color: white;
+  background-color: #7292ca;
+  font-size: 0.8rem;
+}
+
+.summary {
+  color: #7292ca;
+  font-weight: 500;
+  height: 50px;
+}
+
+.list-group-item {
+  height: 50px;
+}
+
+.left .list-group-item {
+  border: none;
+  background-color: #7292ca;
+  color: white;
+  font-weight: 500;
+  font-size: 1rem;
+}
+.left .active {
+  background-color: #6681b4;
+}
+.left .fas {
+  font-size: 1.2rem;
+}
+
+.right {
+  font-weight: 500;
+  color: #797979;
+}
+
+.gbl {
+  font-size: 1rem;
+  font-weight: 500;
+}
+.gbl .gbl-header {
+  background-color: #9ed737;
+  color: white;
+  font-weight: 500;
+  font-size: 1rem;
+}
+.gbl input {
+  border-radius: 10px;
+}
+@media (max-width: 768px) {
+  .gbl {
+    font-size: 14px;
+  }
+  .gbl .gbl-header {
+    font-size: 0.9rem;
+  }
+}/*# sourceMappingURL=myIdInfo.css.map */
